@@ -1,62 +1,32 @@
 {
-    "version": "",
-    "description": "",
-    "homepage": "",
-    "license": "",
-    "notes": "",
+    "version": "0.0.1",
     "architecture": {
-        "64bit": {
-            "url": "",
-            "hash": ""
-        },
         "32bit": {
-            "url": "",
-            "hash": ""
+            "url": "https://github.com/sebakri/dnv/releases/download/v0.0.1/dnv_Windows_i386.zip",
+            "bin": [
+                "dnv.exe"
+            ],
+            "hash": "54b817e0fdfea8d89552ccb46d5adfe73eed3360c3c4aca6a0ac2c70596c22c0"
+        },
+        "64bit": {
+            "url": "https://github.com/sebakri/dnv/releases/download/v0.0.1/dnv_Windows_x86_64.zip",
+            "bin": [
+                "dnv.exe"
+            ],
+            "hash": "7ef1af6a83dd3a6e6b59da8fd0b1f8bab8382c82a45760b55569f3de04eaed53"
         },
         "arm64": {
-            "url": "",
-            "hash": ""
+            "url": "https://github.com/sebakri/dnv/releases/download/v0.0.1/dnv_Windows_arm64.zip",
+            "bin": [
+                "dnv.exe"
+            ],
+            "hash": "444344d89b6d22fc684559d7ebe4eeec3677ae598207d7ef288c82fe93477bec"
         }
     },
-    "pre_install": "",
-    "installer": {
-        "script": ""
-    },
-    "post_install": [
-        "",
-        ""
-    ],
-    "uninstaller": {
-        "script": ""
-    },
-    "bin": "",
-    "env_add_path": [
-        "",
-        ""
-    ],
-    "persist": [
-        "",
-        ""
-    ],
-    "checkver": {
-        "url": "",
-        "regex": ""
-    },
-    "autoupdate": {
-        "architecture": {
-            "64bit": {
-                "url": ""
-            },
-            "32bit": {
-                "url": ""
-            },
-            "arm64": {
-                "url": ""
-            }
-        },
-        "hash": {
-            "url": "",
-            "regex": ""
-        }
-    }
+    "shortcuts": [
+        [
+            "dnv.exe",
+            "dnv"
+        ]
+    ]
 }
