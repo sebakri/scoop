@@ -1,26 +1,26 @@
 {
-    "version": "0.0.1",
+    "version": "0.1.0",
     "architecture": {
         "32bit": {
-            "url": "https://github.com/sebakri/dnv/releases/download/v0.0.1/dnv_Windows_i386.zip",
+            "url": "https://github.com/sebakri/dnv/releases/download/v0.1.0/dnv_Windows_i386.zip",
             "bin": [
                 "dnv.exe"
             ],
-            "hash": "54b817e0fdfea8d89552ccb46d5adfe73eed3360c3c4aca6a0ac2c70596c22c0"
+            "hash": "193cb9c78f63903debb2cdd0f3db593d96035b7c3c49895a21e52622db680d89"
         },
         "64bit": {
-            "url": "https://github.com/sebakri/dnv/releases/download/v0.0.1/dnv_Windows_x86_64.zip",
+            "url": "https://github.com/sebakri/dnv/releases/download/v0.1.0/dnv_Windows_x86_64.zip",
             "bin": [
                 "dnv.exe"
             ],
-            "hash": "7ef1af6a83dd3a6e6b59da8fd0b1f8bab8382c82a45760b55569f3de04eaed53"
+            "hash": "1d750f5b03b080e7e787db84cc59cad840648d053f86b80240d92de16d9872a1"
         },
         "arm64": {
-            "url": "https://github.com/sebakri/dnv/releases/download/v0.0.1/dnv_Windows_arm64.zip",
+            "url": "https://github.com/sebakri/dnv/releases/download/v0.1.0/dnv_Windows_arm64.zip",
             "bin": [
                 "dnv.exe"
             ],
-            "hash": "444344d89b6d22fc684559d7ebe4eeec3677ae598207d7ef288c82fe93477bec"
+            "hash": "77bf0085a1c28dd6e0ea7709b6b6fa4dabe31c2887fa36727c49fd3c9f0fd6ee"
         }
     },
     "shortcuts": [
