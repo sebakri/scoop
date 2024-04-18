@@ -6,21 +6,21 @@
             "bin": [
                 "dnv.exe"
             ],
-            "hash": "e386b732ee614e4f631f75b89c27fdb1a59ffb668858e6692c6b5bca1e4afa88"
+            "hash": "00632e2ec9e0cffba0331e819603078dc05fe9aa4c854b18fea8154f5adaa569"
         },
         "64bit": {
             "url": "https://github.com/sebakri/dnv/releases/download/v0.2.0/dnv_Windows_x86_64.zip",
             "bin": [
                 "dnv.exe"
             ],
-            "hash": "8f7f020cbb43af9afd82220a35c435588769680b3aab3b804330ed7907a022b7"
+            "hash": "4cc9eb61d247579e0056e42f88c6c1213c8758739d6770a0f7f233df92b25a07"
         },
         "arm64": {
             "url": "https://github.com/sebakri/dnv/releases/download/v0.2.0/dnv_Windows_arm64.zip",
             "bin": [
                 "dnv.exe"
             ],
-            "hash": "297a619cc5d768f961e4c40470775ccc2a67b16a5b581a4fbec6c7acce6cd611"
+            "hash": "b8b5cb632c6d93e1a1b97c0b2610fd552c7a4fd1dca7b7541e9c0b6c156bb8a0"
         }
     },
     "shortcuts": [
